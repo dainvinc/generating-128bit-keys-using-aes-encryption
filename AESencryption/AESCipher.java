@@ -1,10 +1,6 @@
 /**
  * file: AESCipher.java
  * author: Vishal Koosuri
- * course: MSCS 630
- * lab: 5
- * version: 1.0
- *due date: May 9
  *
  *This file accepts input from the
  * DriverAES.java and implements
