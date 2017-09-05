@@ -1,10 +1,6 @@
 /**
  * file: DriverAES.java
  * author: Vishal Koosuri
- * course: MSCS 630
- * lab: 5
- * version: 1.0
- *due date: May 9
  *
  *This file accepts some plaintext input and
  *Hexadecimal key input to implement
